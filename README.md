@@ -1,6 +1,7 @@
 # iobroker-global-Scripte
 global lib scripts 
 
+Global-Tools:
 /**************************************************************
  * Global-Tools – Hilfsfunktionen für ilovegyms ioBroker-Umgebung
  * Version: 1.1
@@ -28,6 +29,9 @@ global lib scripts
  **************************************************************/
 
 
+
+
+_libVoiceGPT:
 /***************************************************************
  * Global helper lib for ioBroker JS adapter.
  * Usage in other scripts: globalThis._libVoiceGpt
